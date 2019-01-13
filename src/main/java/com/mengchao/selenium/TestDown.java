@@ -21,6 +21,7 @@ import java.util.TimerTask;
  * @ClassName TestDown
  */
 public class TestDown {
+    //http://selenium-release.storage.googleapis.com/index.html?path=2.44/
     public static void main(String[] arg){
 //        for(int i=0;i<5;i++) {
             System.setProperty("webdriver.chrome.driver", "E:\\workspace\\selenium\\lib\\chromedriver.exe");
